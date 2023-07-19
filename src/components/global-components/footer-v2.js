@@ -98,10 +98,10 @@ class Footer_v2 extends Component {
 							</div>
 							<div className="col-lg-6 text-lg-right text-center">
 								<ul className="social-area">
-									<li><a href="https://www.facebook.com/solverwp/"><i className="fab fa-facebook-f" /></a></li>
-									<li><a href="https://www.twitter.com/solverwp/"><i className="fab fa-twitter" /></a></li>
-									<li><a href="https://www.google-plus.com/solverwp/"><i className="fab fa-google-plus-g" /></a></li>
-									<li><a href="https://www.pinterest.com/solverwp/"><i className="fab fa-pinterest-p" /></a></li>
+									<li><a href=""><i className="fab fa-facebook-f" /></a></li>
+									<li><a href=""><i className="fab fa-twitter" /></a></li>
+									<li><a href=""><i className="fab fa-google-plus-g" /></a></li>
+									<li><a href=""><i className="fab fa-pinterest-p" /></a></li>
 								</ul>
 							</div>
 						</div>
